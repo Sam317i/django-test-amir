@@ -1,0 +1,25 @@
+header h1 a{
+    color: red;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+    border-bottom: 1px solid #999;
+    text-align: center;
+    padding: 5px;
+}
+
+
+.post-entry{
+    text-align: justify;
+    margin: 20px;
+    border-bottom: 1px solid #999;
+    padding: 10px;
+}
+
+h2{
+    text-align: center;
+}
