@@ -23,3 +23,11 @@ h1{
 h2{
     text-align: center;
 }
+
+#a-del{
+    color: tomato;
+}
+
+#login-status{
+    text-align: center;
+}
